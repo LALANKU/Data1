@@ -1,7 +1,6 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>GOOGLE  FORM</title>
+     GOOGLE  FORM
 </head>
 <body>
 <form>
@@ -15,6 +14,6 @@
   Re-password:<input type="password" name="user password"><br>
   name="user repass"><br>
   <input type="submit" name="b submit" value="submit"/>
-  <form>
+  </form>
 </body>
 </html>
